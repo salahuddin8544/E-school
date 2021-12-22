@@ -1,0 +1,113 @@
+body{
+    padding:0;
+    margin:0;
+}
+.container{
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding:15px 25px;
+}
+.back{
+    background-color:#F0FFF0;
+}
+.first-container{
+    padding-top: 15px;
+}
+.navbar-brand img{
+    width:200px;
+}
+.sign-button {
+    border-radius: 33px;
+    background-color: #21B573;
+    border: none;
+    padding: 5px 24px;
+    color: white;
+}
+.banner-h{
+    color:#FD511A;
+
+}
+.banner-h h1{
+    font-weight:700;
+    font-size:47px;
+    line-height: 70px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 20px;
+
+}
+button{
+    border-radius: 33px;
+    background-color: #21B573;
+    border: none;
+    padding: 9px 24px;
+    color: white;
+}
+p{
+    color:gray;
+}
+span{
+    color:#21B573;
+}
+.cat1{
+    height: 270px;
+    width: 270px;
+    text-align: center;
+    background-color:#F0FFF0;
+    padding-top: 20px;
+    margin:0 4px;
+}
+.cat1 h3{
+    margin-top: 20px;
+    margin-bottom:0;
+
+}
+.cat1 p{
+    margin-bottom: 5px;
+}
+.img-fluid{
+    width:100px;
+}
+.catogo{
+    margin-top: 20px;
+}
+.p-cate{
+    padding:20%;
+}
+#stu{
+    background-color:#fff;
+    box-shadow: 5px 5px 10px gray;
+}
+#stu p{
+    padding-bottom: 20px;;
+}
+.online-col{
+    box-shadow: 5px 5px 10px lightgray;
+    border:none;
+    border-radius: 8px;
+}
+.card{
+    border:none;
+    padding:8px 5px;
+}
+#online{
+    margin-top: 20px;
+}
+.test-margin h1{
+    padding-bottom:40px;
+}
+.pad p{
+    font-weight:600;
+    padding-right:150px;
+}
+.bold{
+    font-weight:800;
+}
+.footer{
+    background-color:rgb(19, 16, 53);
+    color: white;
+    padding:50px 30px;
+}
+.footer p{
+    color: white;
+}
